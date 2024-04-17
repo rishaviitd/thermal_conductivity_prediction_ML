@@ -13,7 +13,7 @@ In collaboration with Professor Divya Nayar, this project aimed to develop a rob
     </li>
     <li><span style="color:#ff6600"><strong><span class="icon">📈</span>Result:</strong></span>
         <ul>
-            <li>Achieved a superior generalization ability with the SVR model, showcasing a remarkable R-squared accuracy of 0.9954.</li>
+            <li>Achieved a superior generalization ability with the SVR model, showcasing a remarkable R-squared accuracy of 0.954.</li>
             <li>The model outperformed existing theoretical frameworks, demonstrating its effectiveness in predicting the thermal conductivity of polymer-based composites.</li>
             <li>Presented the findings to a group of PhD researchers, professors, and colleagues, receiving positive feedback and valuable insights.</li>
         </ul>
