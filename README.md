@@ -1,6 +1,5 @@
 <h1>Thermal Conductivity Prediction</h1>
 
-<div class="container">
     <h2>Project Overview</h2>
     <p>In collaboration with Professor Divya Nayar, this project aimed to develop a robust model for predicting the thermal conductivity of polymer-based composites. The focus was on understanding how varying mass fractions of fillers, particularly polyethylene and polystyrene, influence the thermal conductivity of the composite material.</p>
 
@@ -22,4 +21,3 @@
             </ul>
         </li>
     </ul>
-</div>
