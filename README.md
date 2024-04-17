@@ -4,7 +4,7 @@ In collaboration with Professor Divya Nayar, this project aimed to develop a rob
 ## <span style="color:#ff6600">Contributions</span>
 <ul>
     <li><span style="color:#ff6600"><strong><span class="icon">📅</span>Situation:</strong></span> The accuracy of existing theoretical models for predicting the thermal conductivity of polymer-based composites was found to be insufficient. The project commenced in February 2023 as part of a course project under the guidance of Prof. Divya Nayar.</li>
-    <li><span style="color:#ff6600"><strong><span class="icon">🎯</span>Task:</strong></span> Our task was to establish a predictive model capable of accurately determining the thermal conductivity of polymer-based composites across different mass fractions of fillers.</li>
+    <li><span style="color:#ff6600"><strong><span class="icon">🎯</span>Task:</strong></span> Our task was to establish a predictive model capable of predicting more accurately than theoritical models, determining the thermal conductivity of polymer-based composites across different mass fractions of fillers.</li>
     <li><span style="color:#ff6600"><strong><span class="icon">⚙️</span>Action:</strong></span>
         <ul>
             <li>Utilized support vector regression (SVR) as the primary modeling technique.</li>
